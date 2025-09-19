@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "1.1",
+    "body": "Lucy prepared an activity as in the the figure while explaining the subject of Problem-Solving Techniques. Accordingly, she asked her pupil Henry to place the chips numbered from 1 to 6 in six circular areas, with the sum of the numbers written on the chips on each side of the triangle being 10. How should Henry do this placement? If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable\nstate the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": "Figure_1.1.png",
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "Place the six chips in the marked blue areas. The sum of the numbers on each side of the triangle must be 10. Data: Six chips and six areas. Unknown: Place of the chips. Condition: Each chip must be used only once, and the sum on each side must be 10."
+  },
+  {
+    "id": "1.2",
+    "body": "Farmer Joe wants to cross the river with his boat, his pet wolf, goat, and a bag of cabbage he bought. But since his boat is small, he can only carry himself and one of the things he brought with him at a time. The wolf will eat the goat if he takes the cabbage with him. If he leaves the cabbage with his goat, the goat will eat the cabbage. At least how many trips must Farmer Joe make to cross the river without harming his goat and the cabbage he bought? If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable state the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": null,
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "The wolf, the goat, and the cabbage will be passed. Only one of them can be moved at a time. Goat with the wolf or cabbage with the goat will not be left alone. At least how many trips should be made? Data: Wolf, Goat, Cabbage, Farmer. Unknown: Number of trips at least. Condition: The wolf, the goat, or the goat and the cabbage cannot be left alone. Only one of them can be crossed at a time."
+  },
+  {
+    "id": "1.3",
+    "body": "Three boxes of yellow and/or white marbles are sold in a toy store. Among these boxes, there are only yellow balls in one, only white balls in another, and yellow and white balls mixed in the other. The boxes are labeled as yellow, white, or mixed. However, the shop owner realized that all three boxes were mislabeled, and he called his staff, Cem, and asked him to correct these labels. Since the boxes are on a high shelf, Cem cannot see the inside but can reach and take balls from them. If Cem can correctly label these boxes by simply taking marbles from one of them, which box is it? If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable state the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": null,
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "Among three boxes, there are only yellow balls. Only white and yellow and white balls are mixed. The boxes are labeled as yellow, white or mixed. Data: Three mislabeled boxes containing yellow, white, and mixed balls. Unknown: The box. Condition: Can only draw marbles from one of the boxes and cannot see the inside."
+  },
+  {
+    "id": "1.4",
+    "body": "Uber driver Richard took action in line with the customer's request from the system and followed the following route. From its current location, it first reached the customer by going 50 meters to the north, 30 meters to the west, 20 meters to the north, 50 meters to the east, and 20 meters to the south. How far has Richard moved from its original position in total? If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable\nstate the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": null,
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "From the beginning, it went 50 m to the north, 30 m to the west, 20 m to the north, 50 m to the east, and 20 m to the south. How far is it from the initial? Data: N:50, W:30, N:20, E:50, S:20. Unknown: The distance between the initial and final location"
+  },
+  {
+    "id": "1.5",
+    "body": "Sue and William have ten cents and five cents in their pockets. The total money in Sue's pocket is 75 cents, and the money in William's is 90 cents. William and Sue have the same number of coins. Sue has as much ten cents as William's five cents. How many ten cents does Sue have in her pocket?  If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable\nstate the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": null,
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "William and Sue have the same number of coins that, consist of ten and five cents. Sue has 75 cents, and William has 90 cents in total. Sue has as much ten cents as William's five cents. How many ten cents does Sue have? Data: W: 90 cents, S: 75 cents and same number of coins. Unknown: The amount of ten cents S has. Condition: The number of ten cents Sue has = The number of five cents William has"
+  },
+  {
+    "id": "1.6",
+    "body": "For their wedding organization, Ashly and Elon; sent colorful invitations to his close relatives and black & white invitations to his friends and distant relatives. A color wedding invitation costs 2.9 dollars, and a black & white one costs 1.9 dollars. 20 people were invited to the wedding, and a total of 52 dollars was spent on the invitations. How many black and white wedding invitations were sent to the guests?  If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable\nstate the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": null,
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "20 people were invited, and 52 dollars was spent on the invitations. A color wedding invitation costs 2.9 dollars, and a black & white one costs 1.9 dollars. How many black & white invitations were sent?. Data: one colored invitation cost: 2.9$ , one black white invitation cost: 1.9$, 20 invitations sent, Total cost: 52$. Unknown: The number of black white invitation."
+  },
+  {
+    "id": "1.7",
+    "body": "Billy, Henry, and Lucy were caught red-handed by the police while trying to rob the Grand Bazaar Jeweler. As a result of the cross-examination, it was under stood that at least one suspect told the truth and at least one suspect was lying. The statements of the suspects are as follows: \nBilly: I am not guilty. I got into this business fully at the push of Henry. He ultimately planned and organized the robbery himself. \nHenry: I admit, \"I planned the robbery, and it was entirely my idea.\" \nLucy: The idea of the robbery is not mine. It's not my opinion.\u2028Given statements, prove why Lucy cannot be the instigator of the robbery.  If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable\nstate the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": null,
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "Billy, Henry, and Lucy have been caught. At least one of them is saying true; one of them is lying. Billy: It was planned entirely by Henry. I am not guilty. Henry: The robbery was completely my idea. Lucy: I did not plan the robbery. Prove that Lucy cannot be the instigator of the robbery. Data: Statements. Unknown: Proof that the instigator can't be Lucy. Condition: At least one person is lying and at least one is telling the truth."
+  },
+  {
+    "id": "1.8",
+    "body": "Fireman Joe wants to prepare two buckets marked with the letters A and B, containing some water, for the fire drill. For this, he transfers as much water from bucket A to bucket B as from bucket B. Then he takes as much water as in bucket A from bucket B and pours it into bucket A. Then he takes the same amount of water as in the B bucket from the A bucket and pours it into the B bucket. If there were 16 liters of water in both buckets in the last case, how many liters of water were in both buckets at the beginning? If there is unnecessary information in the problem statement given above, 1) remove it. 2) Rewrite the questions in your own words. 3) Define what the data is, what is unknown and what the condition is. 4) If suitable\nstate the problem using notation or a figure. Complete only four tasks, don't solve the problem.",
+    "figure": null,
+    "techniques": ["General"],
+    "figureDescription": null,
+    "finalAnswer" : "Joe transfers as much water from bucket A to bucket B as from bucket B. Then he takes as much water as in bucket A from bucket B and pours it into bucket A. Then he repeated what he did first. In the end, there were 16 liters of water in both buckets. How many liters of water exist initially? Data: A and B start with x and y liters, exchange water in three steps, and both end with 16 liters. Unknown: x and y"
+  },
+  {
+    "id": "2.1",
+    "body": "Place the six chips in the marked blue areas shown in the figure so that the sum of the numbers on each side of the triangle is 10.",
+    "figure": "Figure_2.1.png",
+    "techniques": [
+      "Guess and Test"
+    ],
+    "figureDescription": "An equilateral triangle arrangement formed by six empty blue circular slots. The goal is to place these six numbered chips into the circular slots so that the sum of the numbers along each side of the triangle is equal to 10.",
+    "finalAnswer" : "The figure shows six numbered chips placed in a triangle: 1 at the top, 6 and 4 in the middle row, and 3, 2, 5 in the bottom row. Each side of the triangle (1+6+3, 3+2+5, 5+4+1) sums to 10."
+  },
+  {
+    "id": "2.2",
+    "body": "Jack was asked to solve the crypto arithmetic question in the figure at an event at his school using only the numbers 0,1,2,3,6,7 and 9. Each letter corresponds to only one number. How does Jack solve the problem by replacing letters with numbers?",
+    "figure": "Figure_2.2.png",
+    "techniques": [
+        "Guess and Test"
+    ],
+    "figureDescription": "A vertical cryptarithmetic puzzle is displayed where the words 'rat' and 'cat' are stacked on top of each other with a plus sign, and the result below the line is 'ruin'. The letters represent unknown digits, and each letter corresponds to only one unique digit. Beneath the puzzle, a set of available digits is shown: 0, 1, 2, 3, 6, 7, and 9. The goal is to assign a unique digit to each letter so that the equation rat + cat = ruin holds true numerically.",
+    "finalAnswer" : "r = 1, a = 3, t = 6, u=0, i=7, n = 2"
+  },
+  {
+    "id": "2.3",
+    "body": "Kelly purchased some ballpoint pens and erasers for a total of 18 dollars. The price of the eraser is 1.5 dollars per piece, and the ballpoint pen is 60 cents per piece. Kelly bought more erasers than pencils. How many erasers and pencils did she purchase?",
+    "figure": null,
+    "techniques": [
+      "Guess and Test"
+    ],
+    "figureDescription": null,
+    "finalAnswer" : "There are five pencils and ten erasers."
+  },
+  {
+    "id": "2.4",
+    "body": "Place the eight chips in the blue areas shown in the figure so that the sum of the numbers on each side of the square must be 13.",
+    "figure": "Figure_2.4.png",
+    "techniques": [
+      "Guess and Test"
+    ],
+    "figureDescription": "A 3×3 grid of blue circular slots is displayed, forming the shape of a square with nine positions. Below the grid are eight colored numbered chips labeled from 1 to 8, each with a distinct color. One slot in the 3×3 grid remains empty, and the task is to place the eight numbered chips into the blue slots such that the sum of the numbers along each of the four sides of the square is equal to 13.",
+    "finalAnswer" : "Top row (4, 3, 6), second row (8, 2), and bottom row (1, 7, 5). The placement ensures that each side of the square (4+8+1, 1+7+5, 5+2+6, 6+3+4) sums to 13."
+  },
+  {
+    "id": "2.5",
+    "body": "Solve the cryptarithmetic problem shown in the figure. Remember each letter corresponds to only one number.",
+    "figure": "Figure_2.5.png",
+    "techniques": [
+      "Guess and Test"
+    ],
+    "figureDescription": "A cryptarithmetic multiplication puzzle is shown in the figure. The word 'avid' is written at the top as the multiplicand, and the digit 4 is the multiplier. The result of the multiplication, written below the line, is the word 'diva'. Below the puzzle, the digits 0 through 9 are listed, indicating that each letter (a, v, i, d) corresponds to a unique digit from 0 to 9.",
+    "finalAnswer" : "a = 2 , v = 1, i = 7, d = 6"
+  },
+  {
+    "id": "2.6",
+    "body": "The perimeter of a rectangular garden is 76 m, and its area is 336 m2. If its length is greater than its width, what is the length of the garden?",
+    "figure": null,
+    "techniques": [
+      "Guess and Test"
+    ],
+    "figureDescription": null,
+    "finalAnswer" : "The length is 24 m"
+  },
+  {
+    "id": "3.1",
+    "body": "Two-legged Atlas and four-legged Scout robots work to ensure safety in a car factory. If these robots' total number of legs is 42 more than the number of heads, how many Atlas can be on duty in this factory at most?",
+    "figure": null,
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": null,
+    "finalAnswer" : "There can be at most 13 Atlas robots on duty."
+  },
+  {
+    "id": "3.2",
+    "body": "In the the figure, line AB is parallel to line EF. The measure of the angle ACD is three times the angle CDE. If the measure of the angle FED is 100 degree more than the angle ACD,  what is the measure of the angle FED ?",
+    "figure": "Figure_3.2.png",
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": "A geometric diagram with labeled points A, B, C, D, E, and F. Line AB is horizontal and parallel to line EF, which is also horizontal but lower in the figure. Point C lies on line AB, and point E lies on line EF. A diagonal segment connects point C to point D, and another diagonal segment connects point D to point E, forming a zigzag path from C to D to E. Angle ACD is marked at point C between segments AC and CD. Angle CDE is formed at point D between segments CD and DE. Angle FED is formed at point E between segments FE and ED. All points are connected to form two intersecting triangles with parallel bases AB and EF.",
+    "finalAnswer" : "The measure of the angle FED is 148 degree"
+  },
+  {
+    "id": "3.3",
+    "body": "The math teacher Liz asked Jeff and Susan to add two natural numbers. Jeff did subtraction instead of addition; Susan multiplied these numbers. As a result, Jeff found 1, and Susan found 650. What is the actual result?",
+    "figure": null,
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": null,
+    "finalAnswer" : "51"
+  },
+  {
+    "id": "3.4",
+    "body": "Think of a number but keep it small to do computations in your head. Add 20 to that. Then take 3 times that and add 300 to this product. Then divide this sum by three and subtract it from the number you picked initially. After all, you found 120, right? Can you explain how this happened?",
+    "figure": null,
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": null,
+    "finalAnswer" : "We get 60 when we multiply twenty by three, and after the addition of 300, the number becomes 360, and when we divide it by three, eventually, we get 120. Hence, we deduce that the number we picked initially does not matter"
+  },
+  {
+    "id": "3.5",
+    "body": "Any six consecutive odd integers can be placed in the triangle shown in the the figure so that the sum of the numbers on its sides is the same. Prove this.",
+    "figure": "Figure_3.5.png",
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": "An equilateral triangle made up of six empty circular slots arranged in three rows: one slot at the top, two in the middle, and three at the bottom.",
+    "finalAnswer": "The triangle contains six expressions: x, x+2, x+4, x+6, x+8, and x+10. These represent six consecutive even integers placed at the triangle's vertices and midpoints. Each side sums to (x + (x+2) + (x+12)) = 3x + 14, making the total the same on all three sides. Therefore, any six consecutive even integers can be arranged in this pattern to keep the triangle balanced."
+  },
+  {
+    "id": "3.6",
+    "body": "The sum of two positive integers is 91. What are these numbers if half of one is three times the other?",
+    "figure": null,
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "78"
+  },
+  {
+    "id": "3.7",
+    "body": "Jim's Pokemon cards are 9 more than Tom's and 3 less than Asia's. The number of cards in Jim's hand is less than 30. On the other hand, Sue has 4 more cards than Tom. Which of the following 60, 85, 125, 140, 120 could be the total number of Pokemon cards?",
+    "figure": null,
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "85"
+  },
+  {
+    "id": "3.8",
+    "body": "Any six consecutive even numbers can be placed in the triangle shown in the figure, so the sum of the numbers on its sides is the same. Prove this.",
+    "figure": "Figure_3.8.png",
+    "techniques": [
+      "Use a variable"
+    ],
+    "figureDescription": "An equilateral triangle made up of six empty circular slots arranged in three rows: one slot at the top, two in the middle, and three at the bottom.",
+    "finalAnswer": "The triangle contains the expressions: x, x+2, x+4, x+6, x+8, and x+10 — representing six consecutive even numbers. The numbers are arranged so that each side of the triangle contains three of them. For example, one side has x, x+10, x+2; another has x+4, x+6, x+2. Each side sums to 3x + 12. Since all sides have this total, the configuration ensures the same sum on each side of the triangle. Thus, any six consecutive even integers can be arranged in this pattern to make the triangle balanced."
+  },
+  {
+    "id": "4.1",
+    "body": "1/6 of Pierlugi's total life has passed in adolescence. After adolescence, he spent 1/12 of his life playing football. After his active football career ended, he served as a referee for 1/8 of his life. He quit refereeing the day he got married. Nine years after her marriage, she had a daughter and was halfway through her life on her daughter's birthday. At what age did Pierlugi die?",
+    "figure": null,
+    "techniques": [
+      "Solve an equation"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "72"
+  },
+  {
+    "id": "4.2",
+    "body": "At Pineview primary school, students will participate in a group photo shoot in the school garden with a drone. For this photo shoot, students in the school garden were arranged in a way that one student was placed in the first row, two students were placed in the second row, and three students were placed in the third row; by resuming in this way, they formed an equilateral triangle. If 75 more students were enrolled in this school, all students would be lined up in a square, and the number of students on one side of this square would be five less than on one side of the triangle. How many students are there in total at Pineview primary school?",
+    "figure": null,
+    "techniques": [
+      "Solve an equation"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "25"
+  },
+  {
+    "id": "4.3",
+    "body": "While Liz and Kyle were playing a numbers game. \nKyle: Pick a number from 1 to 9 in your head. First, add six to it, then get five times that. Then subtract 28 from that and double it. Then add 16 to that, multiply by five, subtract 50, and double it. What did you find?\nLiz: 900\nKyle took eight cards from his hat and gave them to Liz.\nKyle: Count these cards! That's the number you kept, right?\nLiz: Yes. How did you do this?\nKyle: It's a secret\nExplain the secret.",
+    "figure": null,
+    "techniques": [
+      "Solve an equation"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Let Liz's original number be x. Step-by-step: 1. Add 6 → x + 6, 2. Multiply by 5 → 5(x + 6) = 5x + 30, 3. Subtract 28 → 5x + 30 - 28 = 5x + 2, 4. Double it → 2(5x + 2) = 10x + 4, 5. Add 16 → 10x + 4 + 16 = 10x + 20, 6. Multiply by 5 → 5(10x + 20) = 50x + 100, 7. Subtract 50 → 50x + 100 - 50 = 50x + 50, 8. Double it → 2(50x + 50) = 100x + 100. Kyle said Liz’s result was 900, so: 100x + 100 = 900 ⇒ 100x = 800 ⇒ x = 8. Kyle’s secret: no matter what number Liz chooses (x), the final expression is always 100x + 100. So Kyle can just subtract 100 from the result and divide by 100 to find the original number. Final Answer: Liz originally picked 8."
+  },
+  {
+    "id": "4.4",
+    "body": "Ali drives from his job in York to his farmhouse in Starwood in five hours in his electric vehicle that moves at a constant speed. If he increases his speed by 2 km per hour, he will arrive at the farmhouse 12 minutes earlier. What is the distance between Ali's work and home? (Assume that the traffic flows at a constant speed and never stops.)",
+    "figure": null,
+    "techniques": [
+      "Solve an equation"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "240 km"
+  },
+  {
+    "id": "5.1",
+    "body": "Five tree seedlings will be planted in two linear rows, with three in each row. Show how this can happen.",
+    "figure": null,
+    "techniques": [
+      "Draw a picture"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Plant the five seedlings in an X-shaped formation where the center seedling is shared by both rows. Each row includes three seedlings: one at each end and one in the middle. This arrangement allows five seedlings to form two intersecting straight lines, each containing exactly three seedlings."
+  },
+  {
+    "id": "5.2",
+    "body": "When Cem stacked three identical square prism-shaped boxes on top of each other, the height of the newly formed shape equaled its width. Illustrate this configuration.",
+    "figure": null,
+    "techniques": [
+      "Draw a picture"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Stacking three identical square prism-shaped boxes vertically results in a larger prism whose height equals its width. This is because the height of each individual prism is one-third of the total height, and since the base is square, the total height becomes equal to the base's width when three are stacked."
+  },
+  {
+    "id": "5.3",
+    "body": "Jade made apple pie for afternoon tea for 11 of her friends. She cut the pastry into 11 pieces by making just four linear cuts. How could this have happened?",
+    "figure": null,
+    "techniques": [
+      "Draw a picture"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Jade managed to divide the pie into 11 pieces using just four straight cuts by strategically overlapping the lines so that each new cut intersected the previous ones, maximizing the number of resulting segments. This geometric approach enables four lines to create up to 11 distinct regions."
+  },
+  {
+    "id": "5.4",
+    "body": "After the tennis ball passes through the 104cm high net, it continues by jumping half the height it reaches every time it hits the floor. What will be the ball's height from the floor when the total vertical distance covered is 276 cm?",
+    "figure": null,
+    "techniques": [
+      "Draw a picture"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "3"
+  },
+  {
+    "id": "5.5",
+    "body": "The math teacher asks Cem to make a tetrahedral kite as in the model the figure. How many tetrahedrons should Cem make for this kite?",
+    "figure": "Figure_5.5.png",
+    "techniques": [
+      "Draw a picture"
+    ],
+    "figureDescription": "A tetrahedral kite model is shown, constructed from multiple smaller identical tetrahedrons arranged in a three-dimensional triangular pyramid. The structure has four layers: the top layer contains 1 tetrahedron, the second layer 3, the third 6, and the bottom layer 10 tetrahedrons, forming a densely packed tetrahedral arrangement. Each upper-level tetrahedron shares its corners with the top vertices of the tetrahedrons directly beneath, creating an interlocking geometric configuration.",
+    "finalAnswer": "20"
+  },
+  {
+    "id": "5.6",
+    "body": "Joshua wants to plant seven rose seedlings in six rows, with three roses in each row. How can this be accomplished?",
+    "figure": null,
+    "techniques": [
+      "Draw a picture"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Joshua can achieve this arrangement by placing the seven rose seedlings at the seven vertices and intersections of a star-shaped pattern formed by overlapping triangles. Each straight line or row will then include exactly three seedlings, resulting in six such rows."
+  },
+  {
+    "id": "5.7",
+    "body": "A slug wants to climb to the top of a 10-meter-tall tree. Starting from the lowest point of the tree, it climbs 3 meters daily while it slides down 1 meter. In how many days will this slug reach the top of the tree?",
+    "figure": null,
+    "techniques": [
+      "Draw a picture"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "5"
+  },
+  {
+    "id": "6.1",
+    "body": "60% of the candidates who took the driving license exam were successful in the first aid test and 50% in the engine knowledge test. No candidate fails both tests at the same time. There are only 25 people who passed the first aid test. How many people passed both of the two tests?",
+    "figure": null,
+    "techniques": [
+      "Draw a diagram"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "5"
+  },
+  {
+    "id": "6.2",
+    "body": "How many of the three-digit even numbers with different digits less than 400 consist of only 3,4,6,7, and 8?",
+    "figure": null,
+    "techniques": [
+      "Draw a diagram"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "9"
+  },
+  {
+    "id": "6.3",
+    "body": "Farmer Joe wants to cross the river with his wolf, goat, and a bag of cabbage he bought. However, since his boat is small, he can only carry himself and one of the things he brought at a time. If he leaves his wolf and goat together while crossing the river, the wolf attacks his goat. If he leaves the cabbage with his goat, the goat will eat the cabbage. At least how many trips does Joe have to make to cross the river without spoiling the cabbage and goat?",
+    "figure": null,
+    "techniques": [
+      "Draw a diagram"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "7"
+  },
+  {
+    "id": "6.4",
+    "body": "During Thanksgiving in 2021, some of every 50 cars coming to the Greenpoint, Maspeth, and Williamsburg junction turn right and turn towards Williamsburg; 10 continue straight to Maspeth, and the rest turn left to go to Greenpoint. Half of the vehicles destined for Maspeth turn right after reaching Maspeth and head toward Ridgewood instead. 20% of cars heading towards Williamsburg ended up in Ridgewood. As a result, 10 out of every 50 vehicles entering the junction went to Ridgewood. Since two hundred and fifty thousand cars entered Ridgewood one day during Thanksgiving, how many vehicles entered Greenpoint?",
+    "figure": null,
+    "techniques": [
+      "Draw a diagram"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "75000"
+  },
+  {
+    "id": "6.5",
+    "body": "Lyft driver Sally took action in line with the customer's request from the system and followed the following route. From its current location, it first reached the customer by going 30 meters to the north, 30 meters to the west, 100 meters to the north, 70 meters to the east, and 100 meters to the south. How far has Sally moved from its original position in total?",
+    "figure": null,
+    "techniques": [
+      "Draw a diagram"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "50 meters"
+  },
+  {
+    "id": "6.6",
+    "body": "Mapple Cupertino Headquarters workers 8 out of every 12 use airtax to come to work; 12 out of every 20 live in Cupertino; Eighty of them do not come to work by airtax. \nAccording to this, how many Mapple workers come to work by airtax do not live in Cupertino?",
+    "figure": null,
+    "techniques": [
+      "Draw a diagram"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "64"
+  },
+  {
+    "id": "6.7",
+    "body": "Bill and Warren want to cross the Michigan River with their sons on a boat. Bill and Warren are of equal weight, each weighing 80 kg. Their sons are identical in weight, and each of them weighs 40 kg. If the boat can carry a maximum load of 80 kg at a time, at least how many trips should these four people make to cross the river?",
+    "figure": null,
+    "techniques": [
+      "Draw a diagram"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "7"
+  },
+  {
+    "id": "7.1",
+    "body": "Find the number of triangles with integer side lengths that have a perimeter of ten units?",
+    "figure": null,
+    "techniques": [
+      "Make a table"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "2"
+  },
+  {
+    "id": "7.2",
+    "body": "Cem and Devin are playing the coin-flipping game by tossing a penny in order. Whoever gets heads wins one more toss. The winner will be the first one to get two heads in a row or three heads in total. In how many ways will this game end?",
+    "figure": null,
+    "techniques": [
+      "Make a table"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "10"
+  },
+  {
+    "id": "7.3",
+    "body": "How many squares are there in total on an 8x8 chess board?",
+    "figure": null,
+    "techniques": [
+      "Make a table"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "204"
+  },
+  {
+    "id": "7.4",
+    "body": "Joshua builds three towers by stacking nine pieces of 10 cents in his pocket. How many different ways can these towers be created if the total value of the coins in each tower is at least 20 cents?",
+    "figure": null,
+    "techniques": [
+      "Make a table"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "10"
+  },
+  {
+    "id": "7.5",
+    "body": "Brothers Liz, Thomas, and Henry take the qualification exam together to practice artificial intelligence professionally. In how many ways will the result of this exam be for three siblings?",
+    "figure": null,
+    "techniques": [
+      "Make a table"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "8"
+  },
+  {
+    "id": "8.1",
+    "body": "What is the number in the unit digit of 3^45?",
+    "figure": null,
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "3"
+  },
+  {
+    "id": "8.2",
+    "body": "Elon, floor and wall tiler, possesses four tiles for each of the three types displayed in the figure. If Elon lays down all of these tiles to create a pattern, what is the minimum or maximum number of times this pattern can be repeated?",
+    "figure": "Figure_8.2.png",
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": "Three distinct square tile designs are shown side by side. The left tile features a symmetric pattern composed of nested squares and diagonal lines forming diamond shapes. The center tile has a complex interlocking design of two overlapping triangles forming a hexagram, with concentric hexagons radiating outward. The right tile displays a recursive pattern of nested triangles pointing inward, forming a star-like motif. Each tile type is available in four copies.",
+    "finalAnswer": "the minimum is two times and the maximum is four times."
+  },
+  {
+    "id": "8.3",
+    "body": "How many ways can the metal ball in the figure reach the red flag in the shortest path by moving on the black lines starting from the yellow flag?",
+    "figure": null,
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": "An 8x8 square grid with alternating blue and white tiles. A yellow triangular flag marks the top-right corner, where a small metal ball is placed, indicating the starting point. A red triangular flag marks the bottom-left corner, indicating the destination. The ball can only move along the black grid lines between adjacent tile corners.",
+    "finalAnswer": "12870"
+  },
+  {
+    "id": "8.4",
+    "body": "Triangular numbers are formed by placing points on each other in a specific order. For example, the 1st triangular number consists of one row with a dot in that row. The 2nd triangular number consists of two rows, with one dot in the first row and two in the second. The third triangular number consists of three rows; the first has one, the second has two, and three points in the third row. The first three triangular numbers (1,3, and 6) are shown in the figure. How many points are there in the 30th triangular number?",
+    "figure": "Figure_8.4.png",
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": "Three triangular arrangements of blue dots representing the first three triangular numbers. The first triangle has 1 dot in a single row. The second triangle has 3 dots arranged in two rows (1 on top, 2 below). The third triangle has 6 dots in three rows (1 on top, 2 in the second, and 3 in the third row). Each triangle has the corresponding triangular number written below it: 1, 3, and 6.",
+    "finalAnswer": "465"
+  },
+  {
+    "id": "8.5",
+    "body": "The blue and yellow freight train wagons illustrated in the the figure are connected in a specific order, and some pass through the tunnel. According to this, how many of the wagons of this train passed through the tunnel?",
+    "figure": "Figure_8.5.png",
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": "A long freight train consisting of alternating blue and yellow wagons is shown traveling through hilly terrain and entering a tunnel. Starting from the front (after the red engine, which is not included), the visible wagon sequence follows a pattern: Y, B, YY, BBBB, YYY, BBBBBBBBB, YYYY, BB... BBB, YYYYYYY. The pattern alternates between yellow and blue groups, where each color block increases in length progressively before repeating the cycle. A section of the sequence (indicated by '...') is currently hidden inside the tunnel, and the challenge is to determine how many wagons are inside based on the established visible pattern.",
+    "finalAnswer": "There are 72 blue and 11 yellow wagons in the tunnel."
+  },
+  {
+    "id": "8.6",
+    "body": "Ally followed a specific pattern while placing beads in his hand and putting them in drawers numbered 1 to 15. The first drawer had 4 beads, the second had 7, and the third had 12, while the pattern continued in sequence (and so on). Can you calculate how many beads Ally put in the 15th drawer?",
+    "figure": null,
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "228"
+  },
+  {
+    "id": "8.8",
+    "body": "While Marcus is out for a walk at the park, he is caught short. How many ways can he reach the rest room by walking around the pool and trees in the shortest route from the location shown in the figure? (Marcus can only move right, left, up, and down on the square-shaped stones)",
+    "figure": "Figure_8.8.png",
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": "A 6x6 grid of square tiles represents a park. Marcus begins his path at the top-left corner tile. The goal is to reach the restroom located at the bottom-right corner. Marcus can only move up, down, left, or right between adjacent tiles. A 3x3 water pool occupies the center of the grid, spanning rows 3–5 and columns 3–5. Additionally, there are five grass patch obstacles on specific tiles: (1,4), (1,6), (2,3), (5,2), and (5,4), where rows are counted top to bottom and columns left to right. Marcus must find the shortest path to the restroom without stepping on water or grass patch tiles.",
+    "finalAnswer": "24"
+  },
+  {
+    "id": "8.9",
+    "body": "Identical tetrahedrons are placed on each other in a particular order, starting from the top, as shown in the figure. How many tetrahedrons are there in total? (Try to solve the question using the Pascal's triangle.)",
+    "figure": "Figure_8.9.png",
+    "techniques": [
+      "Look for a pattern"
+    ],
+    "figureDescription": "A three-dimensional triangular pyramid composed of multiple smaller identical tetrahedrons, arranged in a layered structure. The pyramid has five layers: the top layer contains 1 tetrahedron, the second layer 4, the third layer 10, the fourth layer 20, and the bottom layer 35 tetrahedrons, following a growth pattern aligned with Pascal's triangle. Each tetrahedron in the upper layers connects its vertices to the top corners of tetrahedrons directly below, forming an interlocking and densely packed configuration.",
+    "finalAnswer": "56"
+  },
+  {
+    "id": "9.1",
+    "body": "What is the sum of the odd numbers from 1 to 25?",
+    "figure": null,
+    "techniques": [
+      "Solve a simpler problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "169"
+  },
+  {
+    "id": "9.2",
+    "body": "Of the eleven iron balls, ten are the same weight, and the remaining one is slightly heavier than the others. As these eleven balls appear identical, a balance scale is used to determine the heavy ball. What is the least number of weighing needed on the scale to determine the heavier ball?",
+    "figure": null,
+    "techniques": [
+      "Solve a simpler problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "3"
+  },
+  {
+    "id": "9.3",
+    "body": "In a business meeting, there are 21 people. If each person shakes hands with every other person only once, what is the total number of handshakes?",
+    "figure": null,
+    "techniques": [
+      "Solve a simpler problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "210"
+  },
+  {
+    "id": "9.4",
+    "body": "After the tennis ball passes through the 0.5 meter high net, it bounces half the height it reaches every time it hits the floor. So how many meters did it travel vertically from the first time it hit to floor up to the 9th time?",
+    "figure": null,
+    "techniques": [
+      "Solve a simpler problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "255 / 256"
+  },
+  {
+    "id": "9.5",
+    "body": "You have 15 identical balls and a balance scale. One of the balls is slightly heavier than the other 14. To identify the heavier ball, what is the minimum number of weighing required on the balance scale?",
+    "figure": null,
+    "techniques": [
+      "Solve a simpler problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "3"
+  },
+  {
+    "id": "9.6",
+    "body": "\\[\n\\frac{1}{3} + \\frac{1}{3^2} + \\frac{1}{3^3} + \\frac{1}{3^4} + \\cdots + \\frac{1}{3^{16}} = ?\n\\]",
+    "figure": null,
+    "techniques": [
+      "Solve a simpler problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "(3^16 - 1) / (2 × 3^16)"
+  },
+  {
+    "id": "9.7",
+    "body": "The Call of Dudes multiplayer online game tournament will be held in Las Vegas, Nevada. Two teams will clash in each game, and 32 teams will participate in this tournament. In the first round, each team will play only one game with each of the other teams. How many games were played in this round?",
+    "figure": null,
+    "techniques": [
+      "Solve a simpler problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "496"
+  },
+  {
+    "id": "10.1",
+    "body": "Find all pairs of prime numbers that add up to 55.",
+    "figure": null,
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "(53,2)"
+  },
+  {
+    "id": "10.2",
+    "body": "In the figure, the letters arranged in a triangle represent natural numbers. The following conditions are given for these numbers: \n1. Only the numbers in the vertices are even, and only one of them is prime. \n2. C = 4A and 16D = C\n3. B+A = E, E+D = F \n4. Two of B, E, and F are prime. \n5. B, E, and F are less than the arithmetic mean of A and C. Find the numbers corresponding to the letters.",
+    "figure": "Figure_10.2.png",
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "There are two possible answers: B=7, E=15 ,F=17 or B=5, E=13 ,F=15"
+  },
+  {
+    "id": "10.3",
+    "body": "One of the four siblings ate part of the birthday cake before the celebration. Their mothers talked to the kids one by one to find out who ate the cake, and the children replied as follows:\nMackenzie: \"I didn't eat it.\"\nCynthia: \"Adeline ate the cake.\"\nAdeline: \"Oliver ate it.\"\nOliver: \"Mom, Adeline is lying.\"\nAssuming that only one of the four siblings is lying, which one ate the cake?",
+    "figure": null,
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": "Six letters (A, B, C, D, E, F) are arranged in a triangle. A is positioned at the top, B and E form the middle row to the left and right respectively, and C, F, and D are at the bottom row from left to right. These letters represent natural numbers and are linked by arithmetic and number-theoretic conditions such as parity, primality, and relational expressions involving sums and multiples.",
+    "finalAnswer": "Adeline"
+  },
+  {
+    "id": "10.4",
+    "body": "Three boxes of yellow and/or white marbles are sold in a toy store. Among these boxes, there are only yellow balls in one, only white balls in another, and yellow and white balls mixed in the other. The boxes are labeled as yellow, white, or mixed. However, the shop owner realized that all three boxes were mislabeled, and he called his staff, Cem, and asked him to correct these labels. Since the boxes are on a high shelf, Cem cannot see the inside but can reach and take balls from them. If Cem can correctly label these boxes by simply taking marbles from one of them, which box is it?",
+    "figure": null,
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "The boxs contains yellow and white balls."
+  },
+  {
+    "id": "10.5",
+    "body": "Prove that the sum of any two prime numbers greater than two cannot be a prime.",
+    "figure": null,
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Any prime number greater than two is odd. The sum of two odd numbers is always even. An even number greater than two is divisible by two and therefore not prime. So, the sum of any two prime numbers greater than two must be even and greater than two, which implies it is not a prime number."
+  },
+  {
+    "id": "10.6",
+    "body": "Billy, Kale, and Jessica are seated in the three-row VIP section of the plane. Billy always tells the truth, Kale sometimes tells the truth, and Jessica always lies. The person in the middle row said, \"I'm Kale.\" \"Billy is in the middle,\" said the person sitting in the front. The person at the back said: \"Jessica sits in the front row.\" Who sits in the middle row?",
+    "figure": null,
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Kale"
+  },
+  {
+    "id": "10.7",
+    "body": "Jim has an 8-gallon jug with water and 3-gallon and 5-gallon empty jugs. He transferred the water between the jugs without spilling any water, resulting in 4 gallons of water in the 5-gallon jug and 4 gallons in the 8-gallon jug. How did Jim achieve this?",
+    "figure": null,
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Jim starts with 8 gallons in the 8-gallon jug and both the 5-gallon and 3-gallon jugs empty. He pours from the 8-gallon jug into the 5-gallon jug until it is full (3, 5, 0). Then he pours from the 5-gallon into the 3-gallon until the 3-gallon is full (3, 2, 3). Next, he empties the 3-gallon jug (6, 2, 0) and transfers the 2 gallons from the 5-gallon jug into the 3-gallon jug (6, 0, 2). He fills the 5-gallon again from the 8-gallon jug (1, 5, 2), pours from the 5-gallon into the 3-gallon until it’s full (1, 4, 3). This leaves 4 gallons in the 5-gallon jug and 4 gallons in the 8-gallon jug, as required."
+  },
+  {
+    "id": "10.8",
+    "body": "A, B, I, S, M, and L are different natural numbers from 1 to 9 and are placed as in the figure.\nThe following conditions are given for these numbers: \n1. Only the numbers in the vertices are even. \n2. I, A and L are prime numbers. \n3. The arithmetic mean of M, I, and S equals A. \n4. M+B=14 and I+A=8 . \n5. S > L, M > B and I < A . \nFind the numbers corresponding to each letter.",
+    "figure": "Figure_10.8.png",
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": "Six letters (M, I, S, B, A, L) are arranged in two rows over a blue background. The top row contains M, I, and S from left to right, and the bottom row contains B, A, and L in the same horizontal alignment. These letters represent different natural numbers from 1 to 9 and are subject to logical and arithmetic constraints such as parity (even numbers at the vertices), primality (I, A, and L), sums, averages, and comparative relations.",
+    "finalAnswer": " S = 4 , A = 5 , M = 8 , B = 6 , I = 3 , L = 2 "
+    
+  },
+  {
+    "id": "10.9",
+    "body": "The product of any two prime numbers greater than two cannot be a prime number. Prove it.",
+    "figure": null,
+    "techniques": [
+      "Use logic"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "A prime number has exactly two distinct positive divisors: 1 and itself. Let p and q be any two prime numbers greater than 2. Since both p and q are greater than 2, they are distinct and greater than 1. Their product p × q will be divisible by both p and q. Therefore, p × q will have at least four positive divisors: 1, p, q, and p×q. That means p × q is **not** a prime number, because it has more than two distinct divisors. So, the product of any two prime numbers greater than two cannot be a prime number."
+  },
+  {
+    "id": "11.1",
+    "body": "Prove that chips 1, 2, or 3 shown in the figure cannot be placed on the triangle's vertices if the sum of the numbers on each side is twelve.",
+    "figure": "Figure_11.1.png",
+    "techniques": [
+      "Use indirect reasoning"
+    ],
+    "figureDescription": "A triangular arrangement of six blue circular slots is shown, forming three sides with two chips each. Below the triangle, there are six numbered chips labeled 1 through 6 in distinct colors. The goal is to place these chips into the six slots such that the sum of the numbers on each side of the triangle is 12. The configuration visually represents a combinatorial placement problem with numerical constraints.",
+    "finalAnswer": "To achieve a side sum of 12 in an equilateral triangle where each side includes three chips, the total of all six chips must be divisible such that each side equals 12. The sum of the six given chips (1 through 6) is 21. Since each vertex is shared between two sides, the total of the three sides is 3 × 12 = 36. To avoid double-counting shared vertices, the total contribution from chips must be 36, but the actual total sum of all chips is only 21. This contradiction indicates that it's not possible to assign the chips such that each side sums to 12. More specifically, placing 1, 2, or 3 on a vertex forces the remaining chips to make up too much of the side totals, which cannot be satisfied with the remaining values. Therefore, chips 1, 2, or 3 cannot be placed on the vertices."
+  },
+  {
+    "id": "11.2",
+    "body": "Eric is planning a birthday party and wishes to invite Amy, Olga, and Bridget. However, there are some disagreements among his friends. \nI. Bridget will attend the party if Amy or Olga are invited. \nII. If Amy is not invited, Olga will attend the party. \nIII. Bridget will not attend if Eric invites Olga to the party. \nWith these relationships in mind, who might Eric invite to his birthday party?",
+    "figure": null,
+    "techniques": [
+      "Use indirect reasoning"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Eric should only invite Amy and Bridget"
+  },
+  {
+    "id": "11.3",
+    "body": "If x is a natural number and x^2 + 2x + 1  is even, then prove that  cannot be an even number.",
+    "figure": null,
+    "techniques": [
+      "Use indirect reasoning"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "The expression x^2 + 2x + 1 can be rewritten as (x + 1)^2. For this square to be even, x + 1 must be even, which implies x is odd (since an even number minus 1 is odd). Therefore, if (x + 1)^2 is even, x must be odd. Hence, x cannot be an even number."
+  },
+  {
+    "id": "11.4",
+    "body": "Explain why chip seven shown in the figure cannot be placed in the corners of the square when numbered chips from 1 to 8 are placed in the blue-marked areas of the square so that the sum of the numbers on each side of the square is 13.",
+    "figure": "Figure_11.4.png",
+    "techniques": [
+      "Use indirect reasoning"
+    ],
+    "figureDescription": "A square is formed using nine blue circular slots arranged in a 3x3 grid. Chips numbered from 1 to 8 are provided at the bottom, each in a different color. The chip numbered 7 is already placed in the center-left slot. The objective is to fill the slots with the remaining chips such that the sum of the numbers on each side of the square equals 13. The figure visually presents a constraint-based puzzle involving number placement and exclusion logic for specific positions.",
+    "finalAnswer": "Only numbers 1 and 5 can appear in the column with the chip numbered 7. When we examine all the possibilities by swapping the positions of 1 and 5, we observe that the sum in the rows and columns does not equal 13."
+  },
+  {
+    "id": "11.5",
+    "body": "Billy, Henry, and Lucy were caught red-handed by the police while trying to rob the Grand Bazaar Jeweler. As a result of the cross-examination, it was understood that at least one suspect told the truth and at least one suspect was lying. The statements of the suspects are as follows: \nBilly: I am not guilty. I got into this business fully at the push of Henry. He ultimately planned and organized the robbery himself. \nHenry: I admit, \"I planned the robbery, and it was entirely my idea.\" \nLucy: The idea of the robbery is not mine. It's not my opinion. \nProve why Lucy cannot be the instigator of the robbery.",
+    "figure": null,
+    "techniques": [
+      "Use indirect reasoning"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Let's assume Lucy is the mastermind behind the robbery. In this case, Billy would be lying because he is accusing Henry. Henry would also be lying because he claims that he planned it himself. Lucy would be lying as well because she denies planning the robbery. Thus, everyone would be lying. However, the problem's condition states, It is known that at least one person is lying. This leads us to a contradiction. Therefore, Lucy cannot be the instigator."
+  },
+  {
+    "id": "11.6",
+    "body": "Seven consecutive positive integers, whose sums are odd numbers, are represented using the letters N, R, P, E, I, H, and A. If P + N = E + A = R + H, prove that the letter I cannot be an even number.",
+    "figure": null,
+    "techniques": [
+      "Use indirect reasoning"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Let’s assume I is an even number. All letters represent seven consecutive numbers in order: P, E, R, I, H, A, N. If I is even, then the total sum P + E + R + H + A + N is odd. Given that P + N = E + A = R + H, we have P + E + R + H + A + N = 3(R + H), so R + H must be odd. But since I is the middle number in the sequence, by properties of consecutive numbers we get (R + H)/2 = I. Therefore, R + H = 2I, which is even. This contradicts our earlier finding that R + H is odd. Hence, I cannot be an even number."
+  },
+  {
+    "id": "12.1",
+    "body": "A chocolate company wants to organize a campaign to increase its sales. In the figure, nine types of gift vouchers with numbers on them have been given. The company plans to put any vouchers inside the chocolates and send a box of chocolates to 100 lucky winners whose total number on the vouchers adds up to 300. How many gift vouchers should be used to achieve the desired result?",
+    "figure": "Figure_12.1.png",
+    "techniques": [
+      "Use properties of numbers"
+    ],
+    "figureDescription": "The figure displays nine rectangular tiles, each labeled with a number: 84, 49, 6, 112, 14, 35, 168, 42, and 21. These numbers represent gift voucher values intended for a promotional campaign. The goal is to find a subset of these vouchers whose total value sums to exactly 300. Each number can be used once, and the task involves selecting the appropriate number of vouchers to meet the specified total.",
+    "finalAnswer": "100 gift vouchers numbered 6"
+  },
+  {
+    "id": "12.2",
+    "body": "A palindromic number is a number that reads the same forwards and backward. For example, the number 12321, when read from left to right, contains the digits 1,2,3,2,1. Reading from right to left includes the digits 1,2,3,2,1. This is a palindromic number since both readings result in the same sequence. According to this, what is the smallest positive integer greater than one that always divides the sum obtained when we add a four-digit palindromic number to the number obtained by rearranging the positions of its different digits?",
+    "figure": null,
+    "techniques": [
+      "Use properties of numbers"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "11"
+  },
+  {
+    "id": "12.3",
+    "body": "Malcolm finishes all the orange juice in his hand by selling it at the school fair at $1.5 per glass. With all the money he earned, he buys Belgian chocolates priced at $4.8 per package. According to this, how many cups of orange juice has Malcolm sold at least?",
+    "figure": null,
+    "techniques": [
+      "Use properties of numbers"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "16"
+  },
+  {
+    "id": "12.4",
+    "body": "What is the smallest natural number greater than one that leaves a remainder of one when divided by each number in the set ?",
+    "figure": null,
+    "techniques": [
+      "Use properties of numbers"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "2521"
+  },
+  {
+    "id": "12.5",
+    "body": "Pastry Chef Angelina has sponsored the Liberty Young Basketball team to introduce her newly opened bakery. For this promotional event, she is sending three dozen puffy pastry pizzas for the team's lunch, aiming to keep the cost per pizza between $13 and $15. If the cost of one pizza is a natural number, which of the following 7A6 , B04 ,  5C6 , D24 , 46E could be the total cost? (Note: The letters A, B, C, D, and E represent numbers)",
+    "figure": null,
+    "techniques": [
+      "Use properties of numbers"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "B04"
+  },
+  {
+    "id": "13.1",
+    "body": "The total area of three different-sized carpets depicted in the figure is 100 m^2. The carpets were used to cover a 70 m^2 room without cutting or folding. If the area covered by two layers of carpet is 16 m^2, then what is the area covered by three layers of carpet?",
+    "figure": "Figure_13.1.png",
+    "techniques": [
+      "Solve an equivalent problem"
+    ],
+    "figureDescription": "The figure shows three overlapping rectangular carpets in different colors, indicating different sizes and degrees of overlap. The carpets are arranged such that they create regions of single, double, and triple layering. The total area of the three carpets is 100 square meters. These carpets are used to cover a 70 square meter room without cutting or folding. An overlapping area of 16 square meters is covered by exactly two carpets, and the task is to determine the area where all three carpets overlap, resulting in a triple layer.",
+    "finalAnswer": "7 m^2"
+  },
+  {
+    "id": "13.2",
+    "body": "Bell A rings every 18 minutes, and Bell B rings every 32 minutes. After both bells start ringing simultaneously, they are stopped when they ring together again. Excluding the first ring, how many times has Bell B rung until Bell B is stopped?",
+    "figure": null,
+    "techniques": [
+      "Solve an equivalent problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "9"
+  },
+  {
+    "id": "13.3",
+    "body": "In the figure, a vehicle located at point A, marked on the map, will pass through Silver Oak Estates and exit at point B. Using the Groovy Maps application, the driver has selected the options for the shortest distance and the fastest route calculation, starting the journey with point B as the destination. How many different routes can be formed for this journey?",
+    "figure": "Figure_13.3.png",
+    "techniques": [
+      "Solve an equivalent problem"
+    ],
+    "figureDescription": "The figure represents a city-block style map composed of intersecting horizontal and vertical streets forming a rectangular 5x4 grid of blocks. This creates a total of 6 vertical and 5 horizontal lines (streets), intersecting to form 5 rows and 4 columns of blocks. The movement is restricted to grid lines only—either east or south at each intersection. Point A is located at the top-left corner of the grid (northwest), and point B is at the bottom-right corner (southeast). The task is to determine how many shortest paths exist from point A to point B using only the grid lines.",
+    "finalAnswer": "12870"
+  },
+  {
+    "id": "13.4",
+    "body": "Joe's Pancake House sells plain pancakes or pancakes with eight types of ice cream. How many different pancake orders can be placed in this shop?",
+    "figure": null,
+    "techniques": [
+      "Solve an equivalent problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "256"
+  },
+  {
+    "id": "13.5",
+    "body": "How many ways can the seven girls and seven boys be paired up and dance at a party?",
+    "figure": null,
+    "techniques": [
+      "Solve an equivalent problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "5040"
+  },
+  {
+    "id": "13.6",
+    "body": "In the number sequence that progresses as 11, 18, 25, 32, 39, ..., what is the 87th term?",
+    "figure": null,
+    "techniques": [
+      "Solve an equivalent problem"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "613"
+  },
+  {
+    "id": "14.1",
+    "body": "Fireman Joe wants to prepare two buckets marked with the letters A and B, containing some water, for the fire drill. For this, he transfers as much water from bucket A to bucket B as from bucket B. Then he takes as much water as in bucket A from bucket B and pours it into bucket A. Then he takes the same amount of water as in the B bucket from the A bucket and pours it into the B bucket. If there were 16 liters of water in both buckets in the last case, how many liters of water were in both buckets at the beginning?",
+    "figure": null,
+    "techniques": [
+      "Working backwards"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "22 liters of water in Bucket A and 10 liters in Bucket B"
+  },
+  {
+    "id": "14.2",
+    "body": "Farmer Karl has decided to distribute the remaining apples he has. On his way back from the orchard to his house, he gives half of the apples plus one more to the first person he meets, then he gives half of the remaining apples plus one more to another person, and finally, he gives half of the remaining apples plus one more to a third person. Since he has one apple left in his stall, how many apples did the farmer originally have?",
+    "figure": null,
+    "techniques": [
+      "Working backwards"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "22"
+  },
+  {
+    "id": "14.3",
+    "body": "Darsh, Advik, and Indra play a game where only one person loses each round. At the end of each round, the other two players take the number of marbles equal to what the losing player has in their hand. After each player has played three rounds, eight marbles remain, and each player has lost the game once. Given that initially, Darsh has the most marbles, and Indra has the fewest marbles, how many marbles does Advik have at the beginning?",
+    "figure": null,
+    "techniques": [
+      "Working backwards"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "7"
+  },
+  {
+    "id": "14.4",
+    "body": "Dennis and Ally are playing a number game. They take turns choosing a number from 1 to 4. The person who selects a number writes it down, and the next person adds their desired number to the previous total. They continue this way, and the first person to reach 36 wins the game. In the figure, an example part of the game is shown: Given that Dennis starts the game, what strategy should he follow to win the game?",
+    "figure": "Figure_14.4.png",
+    "techniques": [
+      "Working backwards"
+    ],
+    "figureDescription": "The table displays the score progression of a number game between Dennis and Ally. The columns represent the rounds, the players' individual chosen numbers (Dennis and Ally), and the running total. The values show that Dennis starts the game. In Round 1, Dennis chooses 4, bringing the total to 4. In Round 2, Ally adds 3, resulting in a total of 7. In Round 3, Dennis adds 2, making the total 9. Each player picks a number between 1 and 4 in turn, adding it to the cumulative score. The goal of the game is to be the player who brings the total to exactly 36.",
+    "finalAnswer": "if Dennis picks the number one in the first game and continuously plays strategically to reach the numbers in the sequence 36,31,26,21,16,11,6,1 he will always win regardless of Ally's moves."
+  },
+  {
+    "id": "14.5",
+    "body": "At an amusement park, Cem played on three gaming machines with the pocket money he received from his father and had 8 dollars left. Since he spent half of his cash minus two dollars on each machine, how much money did Cem initially have?",
+    "figure": null,
+    "techniques": [
+      "Working backwards"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "36"
+  },
+  {
+    "id": "14.6",
+    "body": "Hana and Felicia are playing a game of tossing 1 euro into a money box. In each round, they choose a number from 1 to 10, take that amount from their wallets, and then collectively put it into the initially empty box. The game is won when the total amount in the container reaches 100 euro. What strategy should be followed to win?",
+    "figure": null,
+    "techniques": [
+      "Working backwards"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Felicia should start the game by putting 1 euro in the box and then play to reach the numbers in the sequence 89, 78, 67, 56, 45, 34, 23, 12, 1"
+  },
+  {
+    "id": "14.7",
+    "body": "Tybalt is a stamp collector. He gave his sister half of his stamp collection plus two more, and he gave his brother half of the remaining stamps minus four. If he is left with 17 stamps, how many stamps did Tybalt initially have?",
+    "figure": null,
+    "techniques": [
+      "Working backwards"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "56"
+  },
+  {
+    "id": "15.1",
+    "body": "Tetromino refers to structures consisting of four identical squares stuck together. The sticking should be done from the edges of the squares. For example, the shape on the left in the figure is a tetromino, but the one on the right is not a tetromino because the edges do not align perfectly. How many types of tetrominoes can be created?",
+    "figure": "Figure_15.1.png",
+    "techniques": [
+      "Use cases"
+    ],
+    "figureDescription": "The figure shows two shapes composed of four identical squares. The left shape forms a valid tetromino, where each square is connected to another along a full edge, creating a continuous, edge-aligned structure. The right shape, however, is not a valid tetromino since one of the squares is attached only at a corner, breaking the edge-connection rule. The visual comparison highlights the requirement that all squares in a tetromino must be connected through full sides.",
+    "finalAnswer": "6"
+  },
+  {
+    "id": "15.2",
+    "body": "Three sports writers who examined the team pairings for the first round of the single-elimination tournament in the NBF Basketball Super League revealed their predicted winning teams. Falcon Warriors is the only basketball team not selected by any writers. The predictions are listed as: \nLisa Vito: Detroit Souls, Charlotte Bees, Atlanta Lions, San Antonio Blazes. \nChris Smithson: El Paso Raptors, Atlanta Lions, Minnesota Wolves, Charlotte Bees. \nMike Headway: San Antonio Blazes, Minnesota Wolves, Atlanta Lions, Houston Angels. Based on this information, determine how the team pairings are arranged. Try to solve the question using Venn diagrams.",
+    "figure": null,
+    "techniques": [
+      "Use cases"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Charlotte Bees paired with Houston Angels. Atlanta Lions paired with Falcon Warriors. Detroit Souls paired with Minnesota Wolves. San Antonio Blazes paired with El Paso Raptors"
+  },
+  {
+    "id": "15.3",
+    "body": "Pentomino refers to structures consisting of five identical squares stuck together. The sticking should be done from the edges of the squares. Some pentominoes are shown in the figure.  How many types of pentominoes can be created at total?",
+    "figure": "Figure_15.3.png",
+    "techniques": [
+      "Use cases"
+    ],
+    "figureDescription": "The figure displays five distinct pentomino shapes, each made by joining five identical green squares along their edges on a square grid. These examples demonstrate different structural arrangements allowed under the edge-connection rule. A pentomino must be a contiguous shape where each square connects to at least one other square through a full side, forming a single unbroken structure. The figure serves as a visual introduction to various valid pentomino configurations.",
+    "finalAnswer": "12"
+  },
+  {
+    "id": "15.4",
+    "body": "Wu, Zhang, and Liu have the same day and month of birth. Zhang's current age is two-thirds of Wu's current age. Four years ago, Liu's age was one-third of Wu's age. Who will be 22 years old on their next birthday?",
+    "figure": null,
+    "techniques": [
+      "Use cases"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "Wu"
+  },
+  {
+    "id": "16.1",
+    "body": "How many ways can the metal ball in the figure reach the red flag in the shortest path by moving on the black lines starting from the yellow and passing through the pink and green flags, respectively?",
+    "figure": "Figure_16.1.png",
+    "techniques": [
+      "Identify subgoals"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "1200"
+  },
+  {
+    "id": "16.2",
+    "body": "Five boys and two girls want to cross from the shore to the island using a jet ski that can carry the utmost of either one boy or two girls. In this case, what is the minimum number of trips required for everyone to cross the island?",
+    "figure": null,
+    "techniques": [
+      "Identify subgoals"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "13"
+  },
+  {
+    "id": "16.3",
+    "body": "An ant starts its journey (as depicted in the figure) from point A and moves along the purple lines without visiting the black squares, reaching point B, then point C, and finally point D, completing its journey in the shortest possible way. In how many different ways can it make this journey?",
+    "figure": "Figure_16.3.png",
+    "techniques": [
+      "Identify subgoals"
+    ],
+    "figureDescription": "The figure shows an ant's path starting from point A and traveling through three connected square grids to reach point D via points B and C. The first grid (6x6) from A to B has two blacked-out squares located at (2,1) and (6,5), where rows are counted from top to bottom and columns from left to right. The second grid (4x4) from B to C contains one blacked-out square located at (3,3). The third grid (3x3) from C to D has no blacked-out squares. The ant must follow the purple lines between adjacent grid points, moving only through valid (non-black) squares, and must complete the journey from A to D in the shortest possible path.",
+    "finalAnswer": "2400"
+  },
+  {
+    "id": "16.4",
+    "body": "Three married couples decide to cross Loch Ness Lake together in a boat. The boat can carry only two people at a time. Due to jealousy, husbands do not want their wives to be left alone with another man on any side of the lake or in the boat without them. Under these conditions, how can these couples cross the lake in a minimum number of trips?",
+    "figure": null,
+    "techniques": [
+      "Identify subgoals"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "11"
+  },
+  {
+    "id": "17.1",
+    "body": "The first five triangular numbers are given in the figure. Construct the formula for the n-th triangular number (T_n).",
+    "figure": "Figure_17.1.png",
+    "techniques": [
+      "Look for a formula"
+    ],
+      "figureDescription": "The image illustrates the first five triangular numbers using blue dot arrangements. Each triangular number is represented by stacking rows of dots such that each row has one more dot than the row above it. The representations are labeled below as: T_1 = 1 (a single dot), T_2 = 3 (two rows: 1 and 2 dots), T_3 = 6 (three rows: 1, 2, and 3 dots), T_4 = 10 (four rows: 1 through 4 dots), and T_5 = 15 (five rows: 1 through 5 dots). The visual progression emphasizes the pattern in dot accumulation to support derivation of a general formula for the n-th triangular number Tₙ.",
+      "finalAnswer": "T_n=\frac{n.(n+1)}{2}"
+  },
+  {
+    "id": "17.2",
+    "body": "How many regions would n lines separate a plane at most?",
+    "figure": null,
+    "techniques": [
+      "Look for a formula"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "121"
+  },
+  {
+    "id": "17.3",
+    "body": "Calculate the total number of diagonals in a regular polygon with n sides.",
+    "figure": null,
+    "techniques": [
+      "Look for a formula"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "\frac{n(n-3)}{2}"
+  },
+  {
+    "id": "17.4",
+    "body": "The dragon has attacked King George's kingdom. The King promises to reward the warrior who defeats the dragon with one hundred thousand gold coins within 30 days. The White Knight says he will slay the dragon but asks for silver coins instead of gold. He proposes the following condition: \"On the first day, I want one coin. On the second day, two coins. On the third day, four coins, and for the following days, I will take double the number of coins from the previous day.\" Should the King accept the Knight's offer if one gold coin equals one hundred silver coins?",
+    "figure": null,
+    "techniques": [
+      "Look for a formula"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "2^30 - 1"
+    
+  },
+  {
+    "id": "17.5",
+    "body": "Determine the formula for finding the nth term in the number sequence 5,8,13,20,29 .....",
+    "figure": null,
+    "techniques": [
+      "Look for a formula"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "n^2 + 4"
+  },
+  {
+    "id": "17.6",
+    "body": "1 + 3 + 3^2 + 3^3 + ... + 3^(n-1) = ?",
+    "figure": null,
+    "techniques": [
+      "Look for a formula"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "\frac{3^n-1}{2}"
+  },
+  {
+    "id": "17.7",
+    "body": "A ball is dropped from a height of half meter. Every time the ball hits the ground, it reaches a height equal to half the previous. When this ball hits the ground n times, how many meters has it travelled vertically?",
+    "figure": null,
+    "techniques": [
+      "Look for a formula"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "\frac{1}{2}+\frac{2^{n-1}-1}{2^{n-1}}"
+  },
+  {
+    "id": "18.1",
+    "body": "the figure displays different shapes composed of squares. If folding is accomplished along the light blue edges, which shapes can be used to form a cube?",
+    "figure": "Figure_18.1.png",
+    "techniques": [
+      "Use a model"
+    ],
+      "figureDescription": "The figure displays six different blue shapes composed of six squares each. These are potential cube nets. Each shape is described using relative coordinates with (0,0) as the top-left reference square of the shape. The first shape has squares at (0,0), (1,0), (0,1), (0,2), (0,3), and (0,4). The second shape has squares at (1,0), (0,1), (1,1), (2,1), (3,1), and (3,2). The third shape includes (0,0), (1,0), (2,0), (3,0), (1,1), and (2,1). The fourth shape has squares at (0,0), (0,1), (1,1), (2,1), (3,1), and (1,2). The fifth shape is composed of (0,0), (1,0), (2,0), (3,0), (2,1), and (1,1). The sixth shape contains (0,0), (1,0), (0,1), (1,1), (2,1), and (2,2). Folding is assumed to be possible along the light blue edges between connected squares. The goal is to identify which of these shapes can be folded into a cube.",
+      "finalAnswer": "Among the six shapes shown, only the top row middle shape and the bottom row middle shape can be folded into a cube. These shapes consist of exactly six square faces arranged in a valid net with proper connectivity and no overlapping parts. The other four shapes either contain more than six squares, have non-square components, or their arrangement prevents forming a closed cube due to gaps or improper edge alignment."
+  },
+  {
+    "id": "18.2",
+    "body": "An isosceles trapezoid is a quadrilateral with parallel bottom and top sides; other sides are equal. Construct an isosceles trapezoid by placing all seven shapes given in the figure without overlap and leaving no gaps in between.",
+    "figure": "Figure_18.2.png",
+    "techniques": [
+      "Use a model"
+    ],
+      "figureDescription": "The figure contains seven colorful geometric shapes arranged in three groups from left to right. On the far left, a large square is divided diagonally into a blue and pink right-angled triangle. In the center, a green equilateral triangle is positioned above a purple and cyan small right-angled triangle that together form a square-like block. To their right is a yellow square. On the far right, there is an orange parallelogram rotated upright. These seven shapes are commonly used in tangram puzzles. The task is to place all the shapes without overlapping or gaps to form an isosceles trapezoid with parallel top and bottom sides and equal-length non-parallel sides.",
+      "finalAnswer": "To complete the isosceles trapezoid using all seven shapes: Place the pink large right triangle on the top-left side, slanting right. Place the blue large right triangle on the top-right side, slanting left, symmetric to the pink one. Position the green triangle in the center at the bottom edge of the top section, fitting between the large triangles. Above the green triangle, insert the orange parallelogram connecting the tops of the pink and blue triangles. In the empty region at the bottom, place the purple small triangle in the bottom-left corner. Fit the cyan small triangle next to it to form a square, and place the yellow square to the right of the cyan triangle. This fills the entire outline precisely without gaps or overlaps, forming a symmetric isosceles trapezoid."
+  },
+  {
+    "id": "18.3",
+    "body": "Which of the shapes shown in the figure will be complete after they are folded?",
+    "figure": "Figure_18.3.2.png",
+    "techniques": [
+      "Use a model"
+    ],
+      "figureDescription": "The figure displays six distinct flat polygonal configurations designed to test foldability into a cube. Each configuration is made up of polygons like squares and equilateral triangles, connected edge-to-edge in specific arrangements: Top-left shape: Contains 5 equilateral triangles (4 orange, 1 pink), 1 green triangle, 1 purple triangle, and 1 blue square. The orange triangles form a central cross-like cluster with the pink, green, and purple triangles branching out. A blue square is attached to one of the orange triangles. Top-middle shape: Made of 4 green trapezoids and 4 blue squares. The green trapezoids form a vertical spine, each connected on both sides to blue squares, creating a symmetrical Y-like figure. Top-right shape: Formed with 1 central red hexagon and 6 blue squares radiating from each of the hexagon’s six edges, producing a symmetrical snowflake/star layout. Bottom-left shape: Includes 4 orange equilateral triangles and 1 blue square. The triangles create a mirrored V shape, and the blue square extends from the rightmost triangle. Bottom-middle shape: Composed of 4 orange equilateral triangles and 2 blue squares. The triangles form a zig-zag arrangement with the two blue squares extending horizontally to the right. Bottom-right shape: Consists of 3 blue squares in an L-shaped pattern (two horizontal, one below the rightmost) and 1 orange triangle extending downward from the bottom square. These configurations challenge spatial reasoning, as only some of them can be folded into a closed cube made of six square faces. Shapes that include only six squares arranged without overlap or gaps and connected edge-to-edge in a valid cube net formation can be folded into a cube.",
+       "finalAnswer": "The only shape that cannot be folded into a complete 3D cube is the one shown on the right in the second image (Bottom-right position in the first image). All other shapes shown can be folded entirely into a complete cube."
+  },
+  {
+    "id": "18.4",
+    "body": "Fill in the designated area shown in the figure with nine shapes in a such a way that they do not overlap and have no gaps.",
+    "figure": "Figure_18.4.png",
+    "techniques": [
+      "Use a model"
+    ],
+      "figureDescription": "The figure shows a tangram puzzle setup on a wooden background. On the left side, there is an owl-shaped outline designated as the target area to be filled. To the right of this outline, there are nine colored geometric shapes arranged in a vertical and grid-like layout. The pieces include: four identical right-angled isosceles triangles (two green and two purple), each with area 2 units²; two small right-angled isosceles triangles (light blue and red), each with area 1 unit²; one square (dark blue) with area 2 units²; one right-angled isosceles triangle larger than the others (pink) with area 4 units²; and one yellow parallelogram with area 2 units². The objective is to arrange these nine shapes into the owl-like silhouette without overlap and without leaving any gaps, forming a complete tiling of the figure.",
+      "finalAnswer": "To correctly assemble the tangram puzzle into the owl-shaped silhouette, follow these steps with orientation and relative positioning: 1) Place the large green right-angled isosceles triangle in the top-left ear region, oriented with the right angle pointing down and the hypotenuse forming the top-left diagonal edge of the owl. 2) To its right, place the large pink right-angled isosceles triangle as a mirror image, forming the top-right ear, with the right angle pointing down and the hypotenuse matching the top-right diagonal edge. 3) Directly below the green triangle, place the medium-sized light teal right-angled triangle with its hypotenuse aligned along the vertical center axis and its right angle pointing outward to the left. 4) Mirror this placement on the right side using the medium purple triangle, with its hypotenuse forming the inner right wing and its right angle pointing right. 5) Place the red small triangle in the center body area, with its right angle pointing downward and fitting snugly between the teal triangle and the blue square. 6) The blue square goes in the bottom-left corner, rotated 45 degrees (like a diamond), adjacent to the red triangle and below the teal one. 7) On the bottom-right, position the yellow parallelogram with its longer side vertical and slanted to the left, directly beneath the purple triangle. 8) Inside the yellow parallelogram, place the light blue small triangle with its right angle in the top-left corner, nesting into the upper part of the parallelogram. 9) Finally, place the orange small triangle in the bottom-right tip of the parallelogram, with its right angle pointing upward and flush with the puzzle’s lower edge. All shapes fit together precisely, completing the owl without overlaps or gaps."
+  },
+  {
+    "id": "19.1",
+    "body": "In America, gasoline is measured in gallons, not liters. Additionally, miles are used as the unit of measurement instead of kilometers. Let's consider a car travelling 16 miles with 1 gallon of gasoline. If the same vehicle were in Europe, how many kilometers could it travel with 1 liter of gas?         \n(1 mile is approximately equal to 1.6 kilometers; 1 liter is equivalent to 0.22 gallons.)",
+    "figure": null,
+    "techniques": [
+      "Use dimensional analysis"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "5.632 km"
+  },
+  {
+    "id": "19.2",
+    "body": "Alfred is planning a motorcycle trip in the state of Washington. He's mapping out his route, which spans approximately 120 cm on the map. On the map, 1 cm corresponds to about 30 km. His motorcycle can cover an average distance of 180 miles on a single tank. Considering that one tank of gas costs 24 dollars, how much money does Alfred need to allocate for fuel? (Note: 1 mi = 1.6 km)",
+    "figure": null,
+    "techniques": [
+      "Use dimensional analysis"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "300 dollars"
+  },
+  {
+    "id": "19.3",
+    "body": "Amelia is going on a hike at the Grand Canyon Track. She needs to cover a total distance of 20 km. Amelia can walk 4 km in one hour and drinks two cups of water every hour. Given that one cup of water equals 0.25 liters, how much water should Amelia take for this hike?",
+    "figure": null,
+    "techniques": [
+      "Use dimensional analysis"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "2.5 liters"
+  },
+  {
+    "id": "20.1",
+    "body": "Archaeologist Lady Aileen is about to initiate an excavation project in a specific area. She plans to determine the area as a triangle by placing stakes at the corners. Aileen initially placed a stake at location H, then moved 32 meters to the north of this stake, turned east, and travelled 206 meters to put a second stake there. She marked this point as location A. She then returned to point H, moved 184 meters to the north, turned east, and after traveling 40 meters, placed a stake at that location, marking it as location K. Calculate the excavation area in square meters?",
+    "figure": null,
+    "techniques": [
+      "Use coordinates"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "18312"
+  },
+  {
+    "id": "20.2",
+    "body": "Find the area of the quadrilateral ABCD with vertices A(2,0), B(5,2), C(3,5), and D(0,3).",
+    "figure": null,
+    "techniques": [
+      "Use coordinates"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "13"
+  },
+  {
+    "id": "21.1",
+    "body": "The pumpjacks in the Aston and Yates oil wells will be connected through a collector on a main pipeline, as shown in the figure. The goal is to minimize the distances between the Aston well, the collector, and the Yates well and the collector. Where should the collector be positioned along the pipeline to achieve this condition?",
+    "figure": "Figure_21.1.png",
+    "techniques": [
+      "Use symmetry"
+    ],
+      "figureDescription": "The illustration depicts an optimization setup for oil transportation. Two pumpjacks, labeled ASTON and YATES, are located at elevated points on opposite sides of a horizontal yellow main pipeline at the bottom. A facility labeled COLLECTOR lies on the pipeline between the two wells. Yellow lines connect the ASTON and YATES wells to the COLLECTOR, forming two segments that meet at the collector facility. The figure visually represents the goal of determining the optimal position along the horizontal pipeline to place the COLLECTOR, such that the total length of the two segments—ASTON to COLLECTOR and YATES to COLLECTOR—is minimized. This setup suggests a geometric optimization problem, likely invoking Fermat’s Principle of Least Distance or reflection principles in triangle geometry.",
+      "finalAnswer": "To find the optimal location for the collector (point K) along the pipeline (segment MN), we minimize the total distance |AK| + |KY|. This happens when point K lies on the straight line segment connecting point A (Aston well) and the reflected image of point Y (Y') across the pipeline. Using triangle similarity, we denote |MK| = x and |KN| = u − x. From similar triangles AMK and KNY, the ratio x / (u − x) = a / b. Solving for x yields x = (a * u) / (a + b). So, the collector should be placed at a distance (a * u) / (a + b) from point M along the pipeline to minimize the total piping distance."
+      
+  },
+  {
+    "id": "21.2",
+    "body": "How many ways can four distinct keys be attached to a circular keychain?",
+    "figure": null,
+    "techniques": [
+      "Use symmetry"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "3"
+  },
+  {
+    "id": "21.3",
+    "body": "How many ways can five different hooks be attached to a square-shaped ring?",
+    "figure": null,
+    "techniques": [
+      "Use symmetry"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "12"
+  },
+  {
+    "id": "22.1",
+    "body": "Carl, Bjork, and Alison are participating in a competition and their combined score is 21 points. Each person must have achieved a higher score compared to others. What is the minimum score that the winner can achieve?",
+    "figure": null,
+    "techniques": [
+      "Considering extreme cases"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "8"
+  },
+  {
+    "id": "22.2",
+    "body": "A new 3.5-mile hiking route is planned to be created on the ancient . For this, the entire alphabet, from A to Z, is used sequentially for marking. Given that the distance between any two stripes is at most 200 meters, what is the minimum distance between any two consecutive stripes? (1 mile = 1.6 km).",
+    "figure": null,
+    "techniques": [
+      "Considering extreme cases"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "600 meters"
+  },
+  {
+    "id": "22.3",
+    "body": "Cem wants to conduct a licensed treasure excavation in a 300 m^2 parallelogram-shaped field as shown in the figure. The point E is the center of the parallelogram ABCD, and the lines AC and BD are its diagonals. Cem selects point F on the DC side and creates a line that passes through point E. He marks the triangles EFC and GBE in gray and wants to search this entire grey area. Can Cem do excavation in the gray regions, considering that the state imposes a limit of only 100 m^2 for excavation?",
+    "figure": "Figure_22.3.png",
+    "techniques": [
+      "Considering extreme cases"
+    ],
+      "figureDescription": "The diagram shows a parallelogram ABCD divided by its diagonals AC and BD, which intersect at point E, the center of the parallelogram. Point F lies on side DC, and a line drawn from F through point E intersects the opposite side AB at point G. The shaded gray regions are two triangles: triangle EFC (with vertices E, F, and C) and triangle GBE (with vertices G, B, and E). These triangles occupy symmetrical segments across the diagonals of the parallelogram, indicating a deliberate subdivision. The full parallelogram has an area of 300 m^2, and the question involves whether the total area of the gray-shaded triangles falls within a legal excavation limit of 100 m^2.",
+      "finalAnswer": "75 m^2"
+  },
+  {
+    "id": "22.4",
+    "body": "A sprinkler located at point O, which can water an area in the shape of a circle with a radius of 3 meters, is intended to water the rectangular area with corners on the circle shown in the figure. What is the maximum area of this rectangular region in square meters?",
+    "figure": "Figure_22.4.png",
+    "techniques": [
+      "Considering extreme cases"
+    ],
+      "figureDescription": "The figure shows a green circle with center O and a radius of 3 meters. Inside the circle, a green rectangle ABCD is inscribed such that all four of its vertices lie on the circumference of the circle. Point A is at the top-left corner and point C at the bottom-right. A radius is drawn from the center O to vertex A, labeled as 3m. The problem relates to finding the maximum area of this inscribed rectangle that can be watered by a sprinkler located at the center of the circle.",
+      "finalAnswer": "18"
+  },
+  {
+    "id": "22.5",
+    "body": "The tree houses 40 vacant nightingale nests. During the migratory season, when 161 nightingales arrive at this tree, what is the maximum number of nightingales that can be present in a single nest?",
+    "figure": null,
+    "techniques": [
+      "Considering extreme cases"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "5"
+  },
+  {
+    "id": "22.6",
+    "body": "Two hexagons with side lengths of 2 units are identical, with the vertex of one hexagon situated at the center (point O) of the other as shown in the figure. In this case, what is the minimal value for the intersection area of the two hexagons?",
+    "figure": "Figure_22.6.png",
+    "techniques": [
+      "Considering extreme cases"
+    ],
+      "figureDescription": "The figure shows two identical regular hexagons with side lengths of 2 units. One hexagon is centered at point O, which is also the vertex of the second hexagon. The two hexagons overlap partially, and the area of intersection forms a common polygonal region shaded darker. The orientation of the hexagons is such that their edges do not align perfectly, creating an irregular intersecting shape. The focus is on determining the minimum possible area of the intersection region.",
+      "finalAnswer": "2 * \\sqrt{3}"
+  },
+  {
+    "id": "23.1",
+    "body": "In a family of four children, what is the probability that there will be more boys than girls?",
+    "figure": null,
+    "techniques": [
+      "Do a simulation"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "1 / 3"
+  },
+  {
+    "id": "23.2",
+    "body": "At the \"Ring Toss Game\" booth in Lapson Amusement Park, approximately 25% of players won a plush toy prize throughout the day. Based on this, estimate the average number of rings a player needs to throw to win a prize by creating a simulation.",
+    "figure": null,
+    "techniques": [
+      "Do a simulation"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "the average number of rings a player needs to throw to win the prize falls between 4 and 5."
+  },
+  {
+    "id": "23.3",
+    "body": "The robot vacuum has cleaned the office rooms shown in the figure and needs to reach the charging station (marked in blue) to recharge. The robot can only move randomly to the rooms below, to the right, or to the left from its current position, and it can never reach the charging station once it leaves the office. Determine the probability of the robot reaching the charging station.",
+    "figure": "Figure_23.3.png",
+    "techniques": [
+      "Do a simulation"
+    ],
+      "figureDescription": "The figure shows a 6x6 grid representing a top-down office layout. A robot vacuum starts at position (2,3). Two charging stations are marked at positions (5,2) and (4,6). The robot can move only left, right, or down from its current position, but never up. If the robot moves outside the grid at any point, it permanently exits and cannot return. Valid transitions occur only between neighboring cells within grid bounds. Grid exits occur when the robot moves left from column 1, right from column 6, or down from row 6. The goal is to determine the probability of the robot reaching one of the charging stations before exiting the grid.",
+      "finalAnswer": "0.2"
+  },
+  {
+    "id": "23.4",
+    "body": "A group of three astronauts will be formed by selecting from among five pilots and five theoretical physicists. Estimate the probability that this group will consist of two pilots and one physicist by creating a simulation.",
+    "figure": null,
+    "techniques": [
+      "Do a simulation"
+    ],
+    "figureDescription": null,
+    "finalAnswer": "0.5"
+    
+  }
+]
