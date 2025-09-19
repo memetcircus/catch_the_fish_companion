@@ -565,9 +565,9 @@
   },
   {
     "id": "9.6",
-    "body": "\[
+    "body": "$$\[
 \frac{1}{3} + \frac{1}{3^2} + \frac{1}{3^3} + \frac{1}{3^4} + \cdots + \frac{1}{3^{16}} = ?
-\]",
+\]$$",
     "figure": null,
     "techniques": [
       "Solve a simpler problem"
